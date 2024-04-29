@@ -1,0 +1,22 @@
+{
+  "name": "native-node.js-project",
+  "version": "1.0.0",
+  "description": "prctical project with native nodejs with only core modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-fayed/native-nodejs.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Ahmed Fayed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-fayed/native-nodejs/issues"
+  },
+  "homepage": "https://github.com/the-fayed/native-nodejs#readme"
+}
